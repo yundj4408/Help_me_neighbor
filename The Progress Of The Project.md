@@ -38,7 +38,7 @@ User Story같은 경우에는 As a type of user, I want some goal 형식으로 �
 교수님과의 상담 시간: 1시간
 
 ![회의시간: 상담](https://github.com/yundj4408/Help_me_neighbor/blob/master/%EA%B5%90%EC%88%98%EB%8B%98%20%ED%94%BC%EB%93%9C%EB%B0%B1%201.jpg)
-![회의시간: 상담](https://raw.githubusercontent.com/yundj4408/Help_me_neighbor/master/4%EC%9B%94%20%205%EC%9D%BC.PNG)
+![회의시간: 상담](https://github.com/yundj4408/Help_me_neighbor/blob/master/%EA%B5%90%EC%88%98%EB%8B%98%20%ED%94%BC%EB%93%9C%EB%B0%B1%202.jpg)
 
 ## 4월 10일 
 User Story를 보강하여 분류하고 나서, Use Case 작성 그리고 Detail한 Work Plan 짰음.
