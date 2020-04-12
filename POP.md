@@ -8,26 +8,28 @@ Honey Badger팀 첫 아이디어 미팅
 
 회의시간: 1시간 5분
 
-이미지:
+![회의시간: 1시간 05분](https://github.com/yundj4408/Help_me_neighbor/blob/master/4%EC%9B%94%202%EC%9D%BC%20%EC%B2%AB%20%EB%AF%B8%ED%8C%85.PNG)
 
 ## 4월 3일 
 카카오톡 설문조사로 아이디어 선정, (1시간 알바)
 
-이미지:
+![투표](https://github.com/yundj4408/Help_me_neighbor/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%84%A0%EC%A0%95%201.PNG)
+![투표](https://github.com/yundj4408/Help_me_neighbor/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%84%A0%EC%A0%95%202.PNG)
+![투표](https://github.com/yundj4408/Help_me_neighbor/blob/master/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%84%A0%EC%A0%95%203.PNG)
 
 ## 4월 5일
 프로젝트 초기 작업 시작 (executive summary, system request, workplan, requirements definition)
 
 회의시간: 1시간 09분
 
-이미지:
+![회의시간: 1시간 09분](https://raw.githubusercontent.com/yundj4408/Help_me_neighbor/master/4%EC%9B%94%20%205%EC%9D%BC.PNG)
 
 ## 4월 8일 
 시스템 제안서 작업
 
 회의시간: 2시간 24분
 
-이미지:
+![회의시간: 2시간 24분](https://github.com/yundj4408/Help_me_neighbor/blob/master/4%EC%9B%94%208%EC%9D%BC.PNG)
 
 ## 4월 9일
 교수님께 시스템 제안서 적은 것에 대해 피드백을 받음. Work Plan를 좀 더 Detail하게 짜라고 하셨고, 
@@ -35,18 +37,19 @@ User Story같은 경우에는 As a type of user, I want some goal 형식으로 �
 
 교수님과의 상담 시간: 1시간
 
-이미지:
+![회의시간: 상담](https://github.com/yundj4408/Help_me_neighbor/blob/master/%EA%B5%90%EC%88%98%EB%8B%98%20%ED%94%BC%EB%93%9C%EB%B0%B1%201.jpg)
+![회의시간: 상담](https://raw.githubusercontent.com/yundj4408/Help_me_neighbor/master/4%EC%9B%94%20%205%EC%9D%BC.PNG)
 
 ## 4월 10일 
 User Story를 보강하여 분류하고 나서, Use Case 작성 그리고 Detail한 Work Plan 짰음.
 
 회의시간: 2시간 28분
 
-이미지:
+![회의시간: 2시간 28분](https://github.com/yundj4408/Help_me_neighbor/blob/master/4%EC%9B%94%2010%EC%9D%BC.PNG)
 
 ## 4월 12일
 User Story를 바탕으로 Use Case를 발전시켰고, Work Plan 마무리.
 
 회의시간: 2시간 30분
 
-이미지: 
+![회의시간: 2시간 30분](https://github.com/yundj4408/Help_me_neighbor/blob/master/4%EC%9B%94%2012%EC%9D%BC%20voice%20talk.PNG)
