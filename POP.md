@@ -31,7 +31,7 @@ Honey Badger팀 첫 아이디어 미팅
 
 ## 4월 9일
 교수님께 시스템 제안서 적은 것에 대해 피드백을 받음. Work Plan를 좀 더 Detail하게 짜라고 하셨고, 
-User Story같은 경우에는 As a <type of user>, I want <some goal> 형식으로 간단하게 적고, Use Case를 만들라고 하셨다.
+User Story같은 경우에는 As a type of user, I want some goal 형식으로 간단하게 적고, Use Case를 만들라고 하셨다.
 
 교수님과의 상담 시간: 1시간
 
