@@ -12,12 +12,5 @@ Web_Service / / team_project (Software Engineering)
 - [회의록](meetings/Progress.md)
 
 <<<<<<<<< Temporary merge branch 1
-## 진행1 가나다
-=========
-## 진행1
 
-##test********
->>>>>>>>> Temporary merge branch 2
-이준병
-
-asfhafasfjkl
+# 윤동준
