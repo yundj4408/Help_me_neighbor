@@ -11,11 +11,10 @@ Web_Service / / team_project (Software Engineering)
 - [WORKPLAN](https://docs.google.com/spreadsheets/d/116JBGgYPy-1EQxnBNylSMEaAZSQbI69gt61lSLaQfGo/edit?usp=sharing)  
 - [회의록](meetings/Progress.md)
 
+<<<<<<<<< Temporary merge branch 1
+## 진행1 가나다
+=========
 ## 진행1
 
-<<<<<<< HEAD
-=======
 ##test********
->>>>>>> e87505898079ef27ca5c3ce7b9b68c7b92cda94a
-test!!
->
+>>>>>>>>> Temporary merge branch 2
