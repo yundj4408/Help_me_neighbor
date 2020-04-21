@@ -11,4 +11,9 @@ Web_Service / / team_project (Software Engineering)
 - [WORKPLAN](https://docs.google.com/spreadsheets/d/116JBGgYPy-1EQxnBNylSMEaAZSQbI69gt61lSLaQfGo/edit?usp=sharing)  
 - [회의록](meetings/Progress.md)
 
+<<<<<<< HEAD
 ## 진행1 가나다 아야어여
+=======
+## 진행1 가나다 123
+윤동준 수정
+>>>>>>> refs/remotes/origin/master
