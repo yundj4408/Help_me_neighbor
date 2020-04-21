@@ -12,8 +12,19 @@ Web_Service / / team_project (Software Engineering)
 - [회의록](meetings/Progress.md)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 진행1 가나다 아야어여
 =======
 ## 진행1 가나다 123
 윤동준 수정
 >>>>>>> refs/remotes/origin/master
+=======
+<<<<<<<<< Temporary merge branch 1
+## 진행1 가나다
+=========
+## 진행1
+
+##test********
+>>>>>>>>> Temporary merge branch 2
+이준병
+>>>>>>> a2970aeeeccfb5797b1e8f7448f6708f046efcf3
