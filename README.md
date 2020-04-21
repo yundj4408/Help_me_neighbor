@@ -11,4 +11,4 @@ Web_Service / / team_project (Software Engineering)
 - [WORKPLAN](https://docs.google.com/spreadsheets/d/116JBGgYPy-1EQxnBNylSMEaAZSQbI69gt61lSLaQfGo/edit?usp=sharing)  
 - [회의록](meetings/Progress.md)
 
-## 진행1
+## 진행1 가나다
